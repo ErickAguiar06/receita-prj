@@ -147,7 +147,7 @@ function App() {
       </main>
 
       <footer>
-        <h2>By Erick</h2>
+        <h2>By Erick Aguiar</h2>
       </footer>
     </>
   )
